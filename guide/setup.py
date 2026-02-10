@@ -14,7 +14,7 @@ setup(
     description="Replicate estimation for survey data with plausible values",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/repest_py",
+    url="https://github.com/levingil2000/repest_py",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

@@ -12,13 +12,13 @@ Python implementation of the REPEST package for analyzing international large-sc
 ### From GitHub
 
 ```bash
-pip install git+https://github.com/yourusername/repest_py.git
+pip install git+https://github.com/levingil2000/repest_py.git
 ```
 
 ### For development
 
 ```bash
-git clone https://github.com/yourusername/repest_py.git
+git clone https://github.com/levingil2000/repest_py.git
 cd repest_py
 pip install -e .
 ```
@@ -27,10 +27,10 @@ pip install -e .
 
 ```bash
 # For regression support
-pip install git+https://github.com/yourusername/repest_py.git[regression]
+pip install git+https://github.com/levingil2000/repest_py.git[regression]
 
 # For development tools
-pip install git+https://github.com/yourusername/repest_py.git[dev]
+pip install git+https://github.com/levingil2000/repest_py.git[dev]
 ```
 
 ## Quick Start
@@ -222,10 +222,10 @@ If you use this package in your research, please cite:
 
 ```bibtex
 @software{repest_py,
-  title = {RepEst: Replicate Estimation for Survey Data},
-  author = {RepEst Contributors},
-  year = {2024},
-  url = {https://github.com/yourusername/repest_py}
+  title = {Repest for python},
+  author = {kuya kevin},
+  year = {2026},
+  url = {https://github.com/levingil2000/repest_py.git}
 }
 ```
 
